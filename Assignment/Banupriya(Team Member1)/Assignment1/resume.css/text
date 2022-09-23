@@ -1,4 +1,4 @@
-tex#a {
+#a {
 	    background-color: rgb(38, 133, 229);
 	    height: 140px;
 	    width:100%;
